@@ -6,6 +6,7 @@ $myWidth: 680px;
 body {
   font-family: $myFont;
   font-size: $myFontSize;
+  $myColor :green !global;
   color: $myColor;
 }
 
